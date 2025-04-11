@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **DevDiaries - Blog Website**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently working with **Razorpay SDK**
 
 - 📫 How to reach me **jasskaransingh0007@gmail.com**
 
