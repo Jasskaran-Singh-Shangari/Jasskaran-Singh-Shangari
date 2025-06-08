@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Next.js**
 
-- 🌱 I’m currently working with **Razorpay SDK**
+- 🌱 I’m currently working with **Framer Motion**
 
 - 📫 How to reach me **jasskaransingh0007@gmail.com**
 
