@@ -42,7 +42,7 @@
 </p>
 
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jasskaran-singh-shangari)
-
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jasskaran-Singh-Shangari)
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jasskaran-singh-shangari" width="600" />
 
 
